@@ -1,6 +1,6 @@
 - 👋 Hi, I’m a Freidenker
 - 👀 I’m interested in emerging web technologies
-- 🌱 I’m currently HapiJS
+- 🌱 I’m currently learning HapiJS
 - 💞️ I’m looking to collaborate on interesting projects
 - 📫 How to reach me : arne@burkonline.net
 
