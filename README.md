@@ -1,4 +1,4 @@
-- 💞️ I’m looking to collaborate on interesting projects
+- 💞️ I’m looking for 42
 - 📫 How to reach me : arne@burkonline.net
 
 <!---
